@@ -7,6 +7,7 @@ function weekdaysText(weekdays) {
             for (let i = 0; i < weekdays.length; i++) {
                 day = weekdays[target];
             }
+            //
             return day;
         }
     }
