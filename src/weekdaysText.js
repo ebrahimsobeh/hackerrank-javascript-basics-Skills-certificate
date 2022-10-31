@@ -5,6 +5,5 @@ function weekdaysText(weekdays) {
             return 'Invalid day number';
         day = weekdays[target];
         return day;
-        
     }
 }
